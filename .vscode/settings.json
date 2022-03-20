@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.cursorBlinking": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorSurroundingLinesStyle": "all",
+    "terminal.integrated.cursorWidth": 3
+}
